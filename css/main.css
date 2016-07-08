@@ -1,0 +1,43 @@
+body{
+	background-color: lavender;
+}
+.div1{
+	width: 960px;     
+	margin: 0 auto;  
+	height: 80px;
+	width: 600px;
+	border: 1px solid black;
+	text-align: center;
+	font-size: 50px;
+	background-color: lavender;
+}
+
+.div2{
+	display: fixed;
+	float: left;
+	width: 180px;
+	height: 1000px;
+}
+
+nav{
+	display: absolute;
+	float: left; 
+	background-color: teal;
+	height: 900px;
+	width: 150px;
+}
+
+p{
+	display: absolute;
+	float: left;
+	background-color: black;
+	height: 900px;
+	width: 450px;
+}
+
+.div3{
+	display: fixed;
+	float: right;
+	width: 180px;
+	height: 1000px;
+}
