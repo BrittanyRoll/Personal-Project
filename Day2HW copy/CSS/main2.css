@@ -1,0 +1,28 @@
+body{
+	background-color: #00FFFF;
+}
+.p1{
+	float:left;
+	margin: 10px 10px;
+	width: 250px;
+	border:1pt solid #000;
+}
+
+.p2{
+	float: left;
+	margin: 10px 10px;
+	width: 250px;
+	border: 1px solid #000;
+}
+
+.p3{
+	float: left;
+	margin: 10px 10px;
+	width: 250px;
+	border: 1px solid #000;
+}
+
+#intro{
+	text-align: center;
+	color: red;
+}

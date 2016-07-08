@@ -4,9 +4,9 @@ body{
 .div1{
 	width: 960px;     
 	margin: 0 auto;  
-	height: 80px;
-	width: 600px;
-	border: 1px solid black;
+	height: 70px;
+	width: 700px;
+	border: 1px solid lavender;
 	text-align: center;
 	font-size: 50px;
 	background-color: lavender;
@@ -15,7 +15,7 @@ body{
 .div2{
 	display: fixed;
 	float: left;
-	width: 180px;
+	width: 150px;
 	height: 1000px;
 }
 
@@ -24,7 +24,7 @@ nav{
 	float: left; 
 	background-color: teal;
 	height: 900px;
-	width: 150px;
+	width: 200px;
 }
 
 p{
@@ -32,9 +32,28 @@ p{
 	float: left;
 	background-color: black;
 	height: 900px;
-	width: 450px;
+	width: 800px;
+	color: lavender;
+	margin-top: 0px;
 }
 
+.a1{
+	display: relative;
+	float: center;
+	padding: 40px;
+	margin: 40px;
+}
+
+.a2{
+	display: relative;
+	float: center;
+	padding: 40px;
+	margin: 40px;
+}
+
+img{
+	padding: 50px;
+}
 .div3{
 	display: fixed;
 	float: right;

@@ -1,0 +1,32 @@
+body{
+	background-color: #00FFFF;
+}
+.p1{
+	float: left;
+	display:block;
+	margin: 20px 60px;
+	width: 250px;
+	color: blue;
+	border: 5px solid #000;
+}
+
+.p2{
+	float: left;
+	display: block;
+	margin: 20px 20px;
+	width: 250px;
+	color: blue;
+	border: 5px solid #000;
+}
+
+.a1{
+	position: absolute;
+	top: 0;
+	left: 5px;
+}
+
+.a2{
+	position: absolute;
+	top: 70px;
+	left: 5px;
+}

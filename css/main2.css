@@ -1,1 +1,43 @@
-main2.css
+body{
+	background-color: lavender;
+}
+
+h1{
+	text-align: center;
+	font-size: 50px;
+}
+
+.div1{
+	display: fixed;
+	float: left;
+	width: 150px;
+	height: 1000px;
+}
+
+nav{
+	display: absolute;
+	float: left; 
+	background-color: teal;
+	height: 900px;
+	width: 200px;
+	list-style-type: none;
+}
+
+p{
+	display: absolute;
+	float: left;
+	background-color: black;
+	height: 900px;
+	width: 800px;
+	color: lavender;
+	font-size: 20px;
+	margin: 0;
+	font-family: "Georgia", serif;
+}
+
+.div2{
+	display: fixed;
+	float: right;
+	width: 180px;
+	height: 1000px;
+}
