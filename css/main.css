@@ -1,11 +1,10 @@
 body{
 	background-color: lavender;
 }
-.div1{
-	width: 960px;     
+.div1{     
 	margin: 0 auto;  
 	height: 70px;
-	width: 700px;
+	width: 1200px;
 	border: 1px solid lavender;
 	text-align: center;
 	font-size: 50px;
@@ -23,7 +22,7 @@ nav{
 	display: absolute;
 	float: left; 
 	background-color: teal;
-	height: 1100px;
+	height: 1300px;
 	width: 200px;
 }
 
@@ -31,7 +30,7 @@ p{
 	display: absolute;
 	float: left;
 	background-color: black;
-	height: 1100px;
+	height: 1300px;
 	width: 800px;
 	color: lavender;
 	margin-top: 0px;
@@ -52,6 +51,13 @@ p{
 }
 
 .a3{
+	display: relative;
+	float: center;
+	padding: 50px;
+	margin: 50px;
+}
+
+.a4{
 	display: relative;
 	float: center;
 	padding: 50px;
