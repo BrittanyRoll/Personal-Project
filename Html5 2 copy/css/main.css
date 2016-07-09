@@ -1,0 +1,22 @@
+body{
+	background-color: skyblue;
+}
+
+.li1{
+	display: inline;
+	list-style-type: none;
+	padding: 10px;
+}
+	
+
+
+.li2{
+	display: inline;
+	list-style-type: none;
+}	
+
+.li3{
+	display: inline;
+	list-style-type: none;
+	padding: 10px;
+}

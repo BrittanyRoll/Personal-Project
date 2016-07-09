@@ -22,15 +22,23 @@ nav{
 	display: absolute;
 	float: left; 
 	background-color: teal;
-	height: 1300px;
+	height: 1500px;
 	width: 200px;
+}
+
+ul{
+	list-style-type: none;
+}
+
+a{
+	font-size-adjust: 
 }
 
 p{
 	display: absolute;
 	float: left;
 	background-color: black;
-	height: 1300px;
+	height: 1500px;
 	width: 800px;
 	color: lavender;
 	margin-top: 0px;
@@ -58,6 +66,13 @@ p{
 }
 
 .a4{
+	display: relative;
+	float: center;
+	padding: 50px;
+	margin: 50px;
+}
+
+.a5{
 	display: relative;
 	float: center;
 	padding: 50px;

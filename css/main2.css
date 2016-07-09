@@ -23,6 +23,10 @@ nav{
 	list-style-type: none;
 }
 
+ul{
+	list-style-type: none;
+}
+
 p{
 	display: absolute;
 	float: left;
