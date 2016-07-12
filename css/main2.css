@@ -18,7 +18,7 @@ nav{
 	display: absolute;
 	float: left; 
 	background-color: teal;
-	height: 1190px;
+	height: 1360px;
 	width: 200px;
 	list-style-type: none;
 }
@@ -31,45 +31,92 @@ ul{
 	display: absolute;
 	float: left;
 	background-color: black;
-	height: 540px;
+	height: 230px;
 	width: 800px;
 	color: lavender;
 	font-size: 20px;
 	margin: 0;
 	font-family: "Georgia", serif;
-	text-align: center;
+}
+
+.p2{
+	display: absolute;
+	float: left;
+	background-color: black;
+	height: 120px;
+	width: 800px;
+	color: lavender;
+	font-size: 20px;
+	margin: 0;
+	font-family: "Georgia", serif;
+}
+
+.p3{
+	display: absolute;
+	float: left;
+	background-color: black;
+	height: 120px;
+	width: 800px;
+	color: lavender;
+	font-size: 20px;
+	margin: 0;
+	font-family: "Georgia", serif;
+}
+
+.p4{
+	display: absolute;
+	float: left;
+	background-color: black;
+	height: 100px;
+	width: 800px;
+	color: lavender;
+	font-size: 20px;
+	margin: 0;
+	font-family: "Georgia", serif;
 }
 
 .img1{
 	float: left;
-	margin: 5px;
-	padding: 5px;
+	margin: 10px;
+	padding: 10px;
 }
 
 .img2{
 	float: left;
-	margin: 30px;
+	margin: 10px;
 	padding: 10px;
 }
 
 .img3{
 	float: left;
-	margin: 30px;
+	margin: 10px;
 	padding: 10px;
 }
 
 .img4{
 	float: left;
-	margin: 30px;
+	margin: 10px;
 	padding: 10px;
 	margin-left: 30px;
 }
 
 .img5{
 	float: left;
-	margin: 30px;
+	margin: 10px;
 	padding: 20px;
 	margin-top: 0;
+}
+
+.img6{
+	float: left;
+	margin: 10px;
+	padding-top: 20px;
+	margin-top: 0;
+}
+
+.img7{
+	float: left;
+	margin-top: 10px;
 }
 
 .div4{
@@ -77,7 +124,7 @@ ul{
 	margin: 0;
 	background-color: black;
 	width: 800px;
-	height: 650px;
+	height: 790px;
 }
 
 
