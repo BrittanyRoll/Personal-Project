@@ -22,7 +22,7 @@ nav{
 	display: absolute;
 	float: left; 
 	background-color: teal;
-	height: 1500px;
+	height: 1800px;
 	width: 200px;
 }
 
@@ -38,7 +38,7 @@ p{
 	display: absolute;
 	float: left;
 	background-color: black;
-	height: 1500px;
+	height: 1800px;
 	width: 800px;
 	color: lavender;
 	margin-top: 0px;
@@ -73,6 +73,13 @@ p{
 }
 
 .a5{
+	display: relative;
+	float: center;
+	padding: 50px;
+	margin: 50px;
+}
+
+.a6{
 	display: relative;
 	float: center;
 	padding: 50px;
